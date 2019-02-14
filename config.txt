@@ -1,0 +1,6 @@
+owner=507978910512709642
+prefix=4
+game=Break | 4play
+stayinchannel=true
+songinstatus=false
+token=NTQ1Njk1MDc4MzA0MTg2MzY5.D0dZvg.wmtspjPGA_bjsRifcoqWLRbjhag
